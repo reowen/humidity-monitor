@@ -1,0 +1,5 @@
+git+https://github.com/BadTigrou/Adafruit_CircuitPython_BMP180.git
+adafruit-circuitpython-dht
+Adafruit-Blinka
+adafruit-circuitpython-busdevice
+adafruit-circuitpython-lis3dh
